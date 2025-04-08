@@ -21,6 +21,19 @@ A decline in the workforce can lead to several negative consequences, such as:
 
 ✅ Analyze the outcomes and provide reports & recommendations.
 
+## 🛠 What Are Contained In This Repository?
+- **EDA.ipynb**: Analysis various features that associated with the project objective.
+- **Preprocessing.ipynb**: Clean the raw data for further models.
+- **Traditional Models.ipynb**: Utilize various traditional models to predict the Attrition likelihood. 
+- **DeepLearning Models.ipynb**: More efficiently classifying with neural network.
+- **Feature Importance.ipynb**: Inspect the features importance and some quick conclusions.
+
+## 🔍 What Are The Outcome?
+
+- **MonthlyIncome** & **Age** are the two features that most significant. This could be explained by the fact that young people or individuals who have low income will seek for a better salary, while the old who aiming to retire will leave the organization.
+
+- **Education**, **EducationField**, **Department**, **Gender** and **PerformanceRating** are the less important features, means that these features don't have much contributtion to the employee attrition.
+
 ---
 
 📌 *This project aims to help organizations understand, predict, and reduce employee attrition for a more stable and efficient workforce.*

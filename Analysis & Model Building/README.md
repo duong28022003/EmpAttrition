@@ -1,6 +1,6 @@
 # 📌 EmpAttrition
 
-## 🔍 What is Attrition?
+## 🔍 WWhat are the most important factors that affect employee attrition?
 Attrition refers to the gradual reduction in the number of employees, customers, or other individuals in a group over time. It occurs naturally due to various reasons, such as resignation, retirement, or disengagement.
 
 ### 🏢 Employee Attrition

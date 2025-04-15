@@ -12,4 +12,11 @@ app = FastAPI()
 
 app.add_middleware(LogMiddleWare)
 setup_cors(app)
+
+@app.get("/")
+def root():
+    return {
+        "message": "Access the link: http://127.0.0.1:8000/docs to view the result."
+    }
+
 app.include_router(router)

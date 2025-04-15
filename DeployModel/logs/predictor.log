@@ -1,0 +1,8 @@
+2025-04-14 13:59:07,428 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Start Model Serving
+2025-04-14 13:59:07,428 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Estimator: NN Predictor
+2025-04-14 13:59:26,369 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Predicted probs: [0.2345713973045349, 0.7654285430908203]. Predicted label: Yes
+2025-04-14 13:59:26,369 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Predicted probs: [0.9449802041053772, 0.055019814521074295]. Predicted label: No
+2025-04-14 14:01:27,630 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Start Model Serving
+2025-04-14 14:01:27,631 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Estimator: NN Predictor
+2025-04-14 14:06:46,926 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Start Model Serving
+2025-04-14 14:06:46,926 - c:\Users\Duong\Desktop\ML\Estimator\models\AttritionPredictor.py - INFO - Estimator: NN Predictor

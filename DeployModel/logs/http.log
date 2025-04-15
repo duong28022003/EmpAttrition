@@ -1,0 +1,9 @@
+2025-04-14 13:59:19,925 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /docs - 200 - 0.00s
+2025-04-14 13:59:20,016 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /openapi.json - 200 - 0.00s
+2025-04-14 13:59:26,388 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - POST - /predict - 200 - 0.59s
+2025-04-14 14:06:48,033 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - / - 404 - 0.00s
+2025-04-14 14:06:48,110 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /favicon.ico - 404 - 0.00s
+2025-04-14 14:06:59,661 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /predict - 405 - 0.00s
+2025-04-14 14:07:05,580 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /dóc - 404 - 0.00s
+2025-04-14 14:07:09,645 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /docs - 200 - 0.00s
+2025-04-14 14:07:10,147 - c:\Users\Duong\Desktop\ML\Estimator\middle_ware\http.py - INFO - 127.0.0.1 - GET - /openapi.json - 200 - 0.01s

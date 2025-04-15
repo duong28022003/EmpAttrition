@@ -24,3 +24,16 @@ A decline in the workforce can lead to several negative consequences, such as:
 ---
 
 📌 *This project aims to help organizations understand, predict, and reduce employee attrition for a more stable and efficient workforce.*
+
+---
+
+## 🛠️ Deploy the model
+
+- First, cd to the folder: `cd DeployModel`
+
+- Install the libraries (if needed): `pip install -r requirements.txt`
+
+- Host your server: `python server.py` 
+or `uvicorn app:app`
+
+- Access the address `http://localhost:8000/docs` or `http://127.0.0.1:8000/docs` to view the results.

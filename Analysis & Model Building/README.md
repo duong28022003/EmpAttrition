@@ -1,5 +1,7 @@
 # 📌 Employee Attrition
 
+*`Process and results are presented in the report file`*
+
 -----
 
 ## 🔍 What are the most important factors that affect employee attrition?
@@ -31,3 +33,4 @@ Besides some crucial elements, some fields didn't show much importance, includin
 - 📂 **Preprocessing**: notebook to process the raw data before passing it to the models.
 - 📂 **Models**: best models saved after training
 - 📂 **Model Building**: notebooks to build the models, including some traditional models & neural network model.
+- 📝 *Attrition Analysis & Prediction Report.pdf*: report of all the process and outcomes.

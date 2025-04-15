@@ -1,26 +1,33 @@
-# 📌 EmpAttrition
+# 📌 Employee Attrition
 
-## 🔍 WWhat are the most important factors that affect employee attrition?
-Attrition refers to the gradual reduction in the number of employees, customers, or other individuals in a group over time. It occurs naturally due to various reasons, such as resignation, retirement, or disengagement.
+-----
 
-### 🏢 Employee Attrition
-Employee attrition happens when employees leave an organization due to resignation, retirement, or layoffs, and the company does not immediately replace them.
+## 🔍 What are the most important factors that affect employee attrition?
 
-## ⚠️ How Can Employee Attrition Impact a Company?
-A decline in the workforce can lead to several negative consequences, such as:
+Through various analysis, top 5 primary features contributted to the employee attrition are:
+-  **EnvironmentSatisfaction** 🏢 & **JobInvolvement** 💼 : Less level, more likely to quit
+-  **Age (or Generation)** 👶🧑: The majority of the workers who quit belongs to the young (GenZ - who aged under 24)
+-  **TotalWorkingYears** ⏳ & **MonthlyIncome** 💰: Employee who have much working experience showed a trend of high monthly income. These people seem to be more stable and less likely to quit.
 
-- **💰 Increased Hiring & Training Costs** – Replacing employees requires recruitment, onboarding, and training, which can be expensive and time-consuming.
-- **📉 Loss of Knowledge & Expertise** – When experienced employees leave, they take valuable skills and institutional knowledge with them, potentially affecting productivity and decision-making.
-- **😟 Lower Employee Morale** – High attrition can create uncertainty and stress among remaining employees, leading to disengagement and lower motivation.
-- **🚀 Decreased Productivity** – Frequent employee turnover can disrupt workflows, causing delays and inefficiencies.
 
-## 🛠 What Have We Done in This Project?
-✅ Inspect various factors contributing to employee attrition.
-
-✅ Utilize Machine Learning & Deep Learning models to predict Employee Attrition Likelihood.
-
-✅ Analyze the outcomes and provide reports & recommendations.
+### 🧪 Some factors exhibited a tiny effect on the attrition
+Besides some crucial elements, some fields didn't show much importance, including:
+- 🎓 **Education**  
+- 🏢 **Department**  
+- 📚 **EducationField**  
+- 🚻 **Gender**  
+- 🏆 **PerformanceRating**
 
 ---
 
-📌 *This project aims to help organizations understand, predict, and reduce employee attrition for a more stable and efficient workforce.*
+*These analysis aims to indicate what factors that organizations could consider to retain the employees and select the suitable features for model building steps.*
+
+-----
+
+## 🔍 What are contained in this folder?
+
+- 📂 **Analysis**: EDA & Importance Analysis notebooks.
+- 📂 **Data**: raw data & processed data.
+- 📂 **Preprocessing**: notebook to process the raw data before passing it to the models.
+- 📂 **Models**: best models saved after training
+- 📂 **Model Building**: notebooks to build the models, including some traditional models & neural network model.

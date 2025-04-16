@@ -1,5 +1,11 @@
 # 📌 EmpAttrition
 
+---
+
+*This project aims to help organizations understand, predict, and reduce employee attrition for a more stable and efficient workforce.*
+
+---
+
 ## 🔍 What is Attrition?
 Attrition refers to the gradual reduction in the number of employees, customers, or other individuals in a group over time. It occurs naturally due to various reasons, such as resignation, retirement, or disengagement.
 
@@ -44,10 +50,6 @@ A decline in the workforce can lead to several negative consequences, such as:
 <img src="https://i.imgur.com/cdNMeMw.png" alt="results" width="600"/>
 </p>
 
-
----
-
-📌 *This project aims to help organizations understand, predict, and reduce employee attrition for a more stable and efficient workforce.*
 
 ---
 

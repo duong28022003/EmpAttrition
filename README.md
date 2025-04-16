@@ -29,11 +29,22 @@ A decline in the workforce can lead to several negative consequences, such as:
 
 ## 🛠️ Deploy the model
 
-- First, cd to the folder: `cd DeployModel`
+- First, cd to the folder:
+```bash
+    cd DeployModel
+```
 
-- Install the libraries (if needed): `pip install -r requirements.txt`
-
-- Host your server: `python server.py` 
-or `uvicorn app:app`
-
+- Install the libraries (if needed):
+```bash
+   pip install -r requirements.txt
+```
+ 
+- Host your server:
+```bash
+  python server.py
+```
+or 
+```bash
+  uvicorn app:app
+```
 - Access the address `http://localhost:8000/docs` or `http://127.0.0.1:8000/docs` to view the results.
